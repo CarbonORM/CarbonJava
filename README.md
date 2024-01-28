@@ -9,7 +9,7 @@ This process is not complete and is not intended to download for use.
 Project created with Maven using the following command:
 
 ```mysql
-mvn archetype:generate -DgroupId=com.carbonorm.carbonjava -DartifactId=carbonjava -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn archetype:generate -DgroupId=dev.carbonorm.carbonjava -DartifactId=carbonjava -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
 
 https://central.sonatype.org/publish/requirements/#developer-information
